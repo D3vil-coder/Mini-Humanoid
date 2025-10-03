@@ -65,5 +65,5 @@ The robot already has **basic gait cycles** coded:
 
 ---
 
-👨‍💻 **Author**: (Your Name)  
+👨‍💻 **Author**: Ansh Savla  
 📅 **Version**: 1.0  
